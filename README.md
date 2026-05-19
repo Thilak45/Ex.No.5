@@ -31,8 +31,62 @@ Deliverables:
 A table comparing ChatGPT's responses to naïve and basic prompts across all scenarios.
 Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatGPT’s outputs.
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
+**Test Scenarios**
 
+The following scenarios were selected:
+
+1.Creative Story Generation
+2.Factual Question Answering
+3.Summarization
+4.Advice / Recommendation
+5.Educational Explanation
+**Scenario 1: Creative Story Generation**
+**Naïve Prompt**
+
+“Write a story about a dragon.”
+
+**Basic Prompt**
+
+“Write a 300-word fantasy story about a lonely dragon living near a snowy mountain village. Include emotional dialogue, vivid descriptions, and a heartwarming ending.”
+
+**Scenario 2: Factual Question Answering**
+**Naïve Prompt**
+
+“What is climate change?”
+
+**Basic Prompt**
+
+“Explain climate change in simple language suitable for a high school student. Include its causes, effects, and two possible solutions.”
+
+**Scenario 3: Summarization**
+**Naïve Prompt**
+
+“Summarize artificial intelligence.”
+
+**Basic Prompt**
+
+“Provide a concise 150-word summary of artificial intelligence, including its applications, benefits, and risks.”
+
+**Scenario 4: Advice / Recommendation**
+**Naïve Prompt**
+
+“How can I study better?”
+
+**Basic Prompt**
+
+“Give practical study tips for a college student preparing for final exams in one month. Include time management, revision methods, and stress management advice.”
+
+**Scenario 5: Educational Explanation**
+**Naïve Prompt**
+
+“Explain photosynthesis.”
+**Basic Prompt**
+
+“Explain the process of photosynthesis step-by-step for a school student. Include the chemical equation and the importance of photosynthesis.”
 
 # OUTPUT
+
+
+[Prompt-Engineering-Naive-vs-Basic.pdf](https://github.com/user-attachments/files/27983100/Prompt-Engineering-Naive-vs-Basic.pdf)
 
 # RESULT: The prompt for the above said problem executed successfully
